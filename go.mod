@@ -1,4 +1,4 @@
-module gcrypto
+module github.com/bean-project/gcrypto
 
 go 1.13
 
