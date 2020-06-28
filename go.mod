@@ -1,4 +1,4 @@
-module cripto
+module gcrypto
 
 go 1.13
 

@@ -1,4 +1,4 @@
-package cripto
+package gcrypto
 
 import (
 	"crypto/rand"
